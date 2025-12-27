@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Victor 👋
 
-<!--
-**hugochooqu/hugochooqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend / Full-Stack Software Engineer** who builds
+**production-ready web and mobile applications** with modern tools.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Mobile:** React Native (Expo)
+- **Backend:** Firebase, Appwrite, REST APIs
+- **AI:** Gemini, LLM-based workflows
+- **Tools:** Git, GitHub, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- Building AI-powered SaaS products
+- Writing clean, scalable, maintainable code
+- Preparing for remote engineering roles in 2026
+
+### 📌 Featured Projects
+👉 Check out my pinned repositories below
+
+### 📫 Let's connect
+- Twitter (X): https://x.com/UgochiVictor
+- Portfolio: https://theugochi.vercel.app
